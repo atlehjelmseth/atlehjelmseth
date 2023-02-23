@@ -38,21 +38,27 @@ p {
 
 a {
   font-size: 1.2rem;
-  padding: 10px 0px 30px 0px;
-  color: white;
-  text-decoration: none;
-  margin: 15px;
-  background-color: rgb(19,38,38);
-  border-radius: 20px;
 }
 
 a:hover {
   text-decoration: underline;
 }
 
+.button {
+  padding: 10px 0px 30px 0px;
+  color: white;
+  text-decoration: none;
+  margin: 20px auto 20px auto;
+  padding: 15px 25px 15px 25px;
+  background-color: rgb(19,38,38);
+  border-radius: 20px;
+  align-self: baseline;
+}
+
 .signature {
   text-align: center;
   font-size: 1rem;
+  padding: 0;
 }
 
 .cards-section {
