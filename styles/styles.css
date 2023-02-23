@@ -16,6 +16,7 @@ body {
 img {
   width: 100%;
   padding: 10px;
+  border-bottom: solid 5px rgb(247, 247, 247);;
 }
 
 h1 {
@@ -39,7 +40,9 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  background-color: white;
+  border: solid 2px rgb(19,38,38);
+  color: rgb(19,38,38);
 }
 
 .button {
@@ -65,7 +68,7 @@ a:hover {
   display: grid; 
   grid-template-columns: repeat(1, 2fr);
   margin: auto;
-  padding: 90px 15px 30px 15px;
+  padding: 90px 20px 30px 15px;
 }
 
 .card {
