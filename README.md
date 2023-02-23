@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Atle
 
-![image](https://github.com/atlehjelmseth/rainy-days/blob/main/RainyDays.png)
+![image](https://github.com/atlehjelmseth/atlehjelmseth/blob/main/images/portfolio.jpg)
 
 👨‍💻 I’m currently working on my portefolio, 👨‍🎓 I’m now learning front end (HTML, CSS, JavaScript), 🤯 Next is Python.
 
