@@ -1,4 +1,5 @@
-# Hi there 👋 My name is Atle
+# Hi there 👋 
+## My name is Atle
 
 ![image](https://github.com/atlehjelmseth/atlehjelmseth/blob/main/images/portfolio.jpg)
 
