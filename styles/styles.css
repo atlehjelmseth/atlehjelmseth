@@ -42,7 +42,7 @@ a {
 
 a:hover {
   background-color: white;
-  border: solid 2px rgb(19,38,38);
+  border: inset 2px rgb(19,38,38);
   color: rgb(19,38,38);
 }
 
@@ -55,6 +55,8 @@ a:hover {
   background-color: rgb(19,38,38);
   border-radius: 20px;
   align-self: baseline;
+  width: 170px;
+  height: 60px;
 }
 
 .signature {
@@ -81,7 +83,7 @@ a:hover {
   border-radius: 20px;
   flex-shrink: 0;
   max-width: 350px;
-  height: 700px;
+  height: 800px;
   margin: 20px auto 20px auto;
 }
 
