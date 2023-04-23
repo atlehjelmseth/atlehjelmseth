@@ -8,4 +8,4 @@
 
 ☎️ I have worked the last 18 years in sales, 💻with development and graphics on the side.
 
-⌨️ I get excited by solving problems, 🤯and like especially solving difficult problems.
+⌨️ I get excited by solving problems, 🤯and i especially like solving difficult problems.
