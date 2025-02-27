@@ -74,7 +74,7 @@ a:hover {
   display: grid;
   grid-template-columns: repeat(1, 2fr);
   margin: auto;
-  padding: 90px 15px 30px 15px;
+  padding: 30px 15px 30px 15px;
 }
 
 .card {
